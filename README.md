@@ -16,7 +16,14 @@ Frontend and backend development, database design, solving complex problems with
 
 ### Projects  
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.
-- [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.
+- [**YOUTUBE**](https://subhashcode369.github.io/subhash-project-1/) - YouTube Clone
+
+Developed a dynamic YouTube clone application using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Implemented features such as video uploads, playback, user authentication, comment sections, and search functionality.
+Integrated RESTful APIs for seamless data flow between the frontend and backend.
+Designed a responsive and user-friendly interface using Tailwind CSS and React.js.
+Utilized Redux for efficient state management and improved user experience.
+Applied MongoDB for database management, ensuring efficient storage and retrieval of video and user data.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT.
 <hr>
 <h3 align="center">Connect with me:</h3>
