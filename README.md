@@ -24,7 +24,6 @@ Frontend and backend development, database design, solving complex problems with
 - a dynamic YouTube clone application using the **MERN stack**  
 - Integrated **RESTful APIs** for seamless data flow between the frontend and backend.  
 - a **responsive and user-friendly interface** using **Tailwind CSS** and **React.js**.
-- Applied **MongoDB** for database management, ensuring efficient storage and retrieval of video and user data.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - **E-Commerce**  
 - Built a **full-featured e-commerce site** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 - a **smooth, responsive UI** with **Tailwind CSS** and **React.js**. 
