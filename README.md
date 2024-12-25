@@ -28,7 +28,11 @@ Frontend and backend development, database design, solving complex problems with
 - Designed a **responsive and user-friendly interface** using **Tailwind CSS** and **React.js**.  
 - Utilized **Redux** for efficient state management and improved user experience.  
 - Applied **MongoDB** for database management, ensuring efficient storage and retrieval of video and user data.
-- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT.
+- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - **E-Commerce Website**  
+- Built a **full-featured e-commerce site** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+- Designed a **smooth, responsive UI** with **Tailwind CSS** and **React.js**.  
+- Integrated **RESTful APIs** for seamless frontend-backend communication.  
+- Used **Redux** for efficient state management and dynamic content.
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
