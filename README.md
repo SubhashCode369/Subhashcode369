@@ -6,7 +6,7 @@
 A full-stack developer with a passion for building scalable web applications and solving challenging problems using data structures and algorithms. Proficient in both frontend and backend technologies, I thrive on learning, collaborating, and creating impactful solutions in the tech space. 🚀
 
 - 💬 **Ask Me About**  
-Frontend and backend development, database design, solving complex problems with data structures and algorithms, or anything tech-related. Let’s talk tech! 🚀
+Frontend and backend development, database design, solving complex problems with data structures and algorithms, or anything tech-related. Let’s talk. 🚀
 
 - 📫 How to reach me - **subhashmhetre369@gmail.com**
 
