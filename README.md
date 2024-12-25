@@ -15,7 +15,8 @@ Frontend and backend development, database design, solving complex problems with
 ### Projects  
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.
 - [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.
-- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT
+- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT.
+- 🌐 **Explore my work on [Codolio] (https://codolio.com/profile/subhash369)**  
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
