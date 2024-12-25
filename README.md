@@ -15,7 +15,12 @@ Frontend and backend development, database design, solving complex problems with
 - 🌐 **Explore my work on [Codolio](https://codolio.com/profile/subhash369)**  
 
 ### Projects  
-- [**Portfolio**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.
+- [**Portfolio**](https://subhashcode369.github.io/portfolio/) - **Portfolio Website**  
+- Developed a **personal portfolio website** to showcase skills, projects, and professional background using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- Implemented **dynamic sections** such as **About Me**, **Skills**, **Projects**, and **Contact**.  
+- Designed a **responsive, mobile-first layout** using **Tailwind CSS** and **React.js** for accessibility across all devices.  
+- Integrated **RESTful APIs** for smooth communication and interactive elements.  
+- Used **Redux** for state management to optimize user experience and performance.  
 - [**YOUTUBE**](https://subhashcode369.github.io/subhash-project-1/) - **YouTube Clone**  
 - Developed a dynamic YouTube clone application using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 - Implemented features such as **video uploads, playback, user authentication, comment sections, and search functionality**.  
