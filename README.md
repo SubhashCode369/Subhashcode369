@@ -18,8 +18,7 @@ Frontend and backend development, database design, solving complex problems with
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - **Portfolio Website**  
 - a **personal portfolio website** to showcase skills, projects, and professional background using the **MERN stack**.  
 - Implemented **dynamic sections** such as **About Me**, **Skills**, **Projects**, and **Contact**.  
-- Integrated **RESTful APIs** for smooth communication and interactive elements.  
-- Used **Redux** for state management to optimize user experience and performance.  
+- Integrated **RESTful APIs** for smooth communication and interactive elements.
 - [**YOUTUBE**](https://subhashcode369.github.io/subhash-project-1/) - **YouTube Clone**  
 - a dynamic YouTube clone application using the **MERN stack**  
 - Integrated **RESTful APIs** for seamless data flow between the frontend and backend.  
