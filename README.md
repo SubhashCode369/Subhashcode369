@@ -1,6 +1,6 @@
  <h1 align="center"> HI I AM SUBHASH MHETRE.</h1>
 
-<h3 align="center"> Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
+<h2 align="center"> Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h2>
 
 - 💡 **About Me**  
 A full-stack developer with a passion for building scalable web applications and solving challenging problems using data structures and algorithms. Proficient in both frontend and backend technologies, I thrive on learning, collaborating, and creating impactful solutions in the tech space. 🚀
