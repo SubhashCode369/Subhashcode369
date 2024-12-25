@@ -16,7 +16,7 @@ Frontend and backend development, database design, solving complex problems with
 
 ### Projects  
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - **Portfolio Website**  
-- Developed a **personal portfolio website** to showcase skills, projects, and professional background using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- Developed a **personal portfolio website** to showcase skills, projects, and professional background using the **MERN stack**.  
 - Implemented **dynamic sections** such as **About Me**, **Skills**, **Projects**, and **Contact**.  
 - Integrated **RESTful APIs** for smooth communication and interactive elements.  
 - Used **Redux** for state management to optimize user experience and performance.  
@@ -27,8 +27,7 @@ Frontend and backend development, database design, solving complex problems with
 - Applied **MongoDB** for database management, ensuring efficient storage and retrieval of video and user data.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - **E-Commerce Website**  
 - Built a **full-featured e-commerce site** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
-- Designed a **smooth, responsive UI** with **Tailwind CSS** and **React.js**.  
-- Integrated **RESTful APIs** for seamless frontend-backend communication.
+- Designed a **smooth, responsive UI** with **Tailwind CSS** and **React.js**. 
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
