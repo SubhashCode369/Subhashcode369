@@ -11,12 +11,13 @@ Frontend and backend development, database design, solving complex problems with
 - 📫 How to reach me - **subhashmhetre369@gmail.com**
 
 - 📄 Know about my experiences - [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
+  
+- 🌐 **Explore my work on [Codolio](https://codolio.com/profile/subhash369)**  
 
 ### Projects  
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.
 - [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT.
-- 🌐 **Explore my work on [Codolio] (https://codolio.com/profile/subhash369)**  
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
