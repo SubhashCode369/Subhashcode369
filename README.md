@@ -18,21 +18,17 @@ Frontend and backend development, database design, solving complex problems with
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - **Portfolio Website**  
 - Developed a **personal portfolio website** to showcase skills, projects, and professional background using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 - Implemented **dynamic sections** such as **About Me**, **Skills**, **Projects**, and **Contact**.  
-- Designed a **responsive, mobile-first layout** using **Tailwind CSS** and **React.js** for accessibility across all devices.  
 - Integrated **RESTful APIs** for smooth communication and interactive elements.  
 - Used **Redux** for state management to optimize user experience and performance.  
 - [**YOUTUBE**](https://subhashcode369.github.io/subhash-project-1/) - **YouTube Clone**  
-- Developed a dynamic YouTube clone application using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-- Implemented features such as **video uploads, playback, user authentication, comment sections, and search functionality**.  
+- Developed a dynamic YouTube clone application using the **MERN stack**  
 - Integrated **RESTful APIs** for seamless data flow between the frontend and backend.  
-- Designed a **responsive and user-friendly interface** using **Tailwind CSS** and **React.js**.  
-- Utilized **Redux** for efficient state management and improved user experience.  
+- Designed a **responsive and user-friendly interface** using **Tailwind CSS** and **React.js**.
 - Applied **MongoDB** for database management, ensuring efficient storage and retrieval of video and user data.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - **E-Commerce Website**  
 - Built a **full-featured e-commerce site** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 - Designed a **smooth, responsive UI** with **Tailwind CSS** and **React.js**.  
-- Integrated **RESTful APIs** for seamless frontend-backend communication.  
-- Used **Redux** for efficient state management and dynamic content.
+- Integrated **RESTful APIs** for seamless frontend-backend communication.
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
