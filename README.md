@@ -37,7 +37,7 @@ Frontend and backend development, database design, solving complex problems with
 <a href="https://auth.geeksforgeeks.org/user/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashmhetre369" height="30" width="40" /></a>
 </p>
   <hr>
-  <h3 align="center">Languages framework and tool :</h3>
+  <h3 align="center">languages frameworks and tools:</h3>
   <p align="center"> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
