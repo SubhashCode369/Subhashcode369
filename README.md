@@ -12,14 +12,14 @@ Frontend and backend development, database design, solving complex problems with
 
 - 📄 Know about my experiences - [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
   
-- 🌐 **Explore my work on -  [Codolio](https://codolio.com/profile/subhash369)**   
+- 🌐 **Explore my work on -  [Codolio](https://codolio.com/profile/subhash369)**
+   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashmhetre369" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/27586529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27586529" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhash1369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhash1369" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashmhetre369" height="30" width="40" /></a>
-</p>
   <h3 align="center">languages frameworks and tools:</h3>
   <p align="center"> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
