@@ -20,7 +20,6 @@ Frontend and backend development, database design, solving complex problems with
 <a href="https://www.leetcode.com/subhash1369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhash1369" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashmhetre369" height="30" width="40" /></a>
 </p>
-  <hr>
   <h3 align="center">languages frameworks and tools:</h3>
   <p align="center"> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
