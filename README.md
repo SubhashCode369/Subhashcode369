@@ -12,20 +12,7 @@ Frontend and backend development, database design, solving complex problems with
 
 - 📄 Know about my experiences - [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
   
-- 🌐 **Explore my work on -  [Codolio](https://codolio.com/profile/subhash369)**  
-
-### Projects  
-- [**Portfolio**](https://subhashcode369.github.io/portfolio/) - **Portfolio Website**  
-- a **personal portfolio website** to showcase skills, projects, and professional background using the **MERN stack**.  
-- Implemented **dynamic sections** such as **About Me**, **Skills**, **Projects**, and **Contact**.  
-- Integrated **RESTful APIs** for smooth communication and interactive elements.
-- [**YOUTUBE**](https://subhashcode369.github.io/subhash-project-1/) - **YouTube Clone**  
-- a dynamic YouTube clone application using the **MERN stack**  
-- Integrated **RESTful APIs** for seamless data flow between the frontend and backend.  
-- a **responsive and user-friendly interface** using **Tailwind CSS** and **React.js**.
-- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - **E-Commerce**  
-- Built a **full-featured e-commerce site** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
-- a **smooth, responsive UI** with **Tailwind CSS** and **React.js**. 
+- 🌐 **Explore my work on -  [Codolio](https://codolio.com/profile/subhash369)**   
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
