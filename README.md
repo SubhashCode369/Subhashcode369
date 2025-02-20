@@ -10,8 +10,6 @@ Frontend and backend development, database design, solving complex problems with
 
 - 📫 How to reach me - **subhashmhetre369@gmail.com**
 
-- 📄 Know about my experiences - [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
-  
 - 🌐 **Explore my work on -  [Codolio](https://codolio.com/profile/subhash369)**
    
   <h3 align="center">languages frameworks and tools:</h3>
