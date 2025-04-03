@@ -3,10 +3,14 @@
 <h2 align="center"> || Full-Stack Development • DSA • Spring Boot • Java • JavaScript ||</h2>
 
 - 💡 **About Me**  
-A full-stack developer with a passion for building scalable web applications and solving challenging problems using data structures and algorithms. Proficient in both frontend and backend technologies, I thrive on learning, collaborating, and creating impactful solutions in the tech space. 🚀
+I'm a passionate full-stack developer, specializing in the **MERN stack**, **Spring Boot**, and **Java**. I love solving real-world problems using **DSA** and designing scalable applications. My focus is on **writing clean code, building efficient backend systems, and crafting dynamic frontend experiences**. Always eager to learn new technologies and collaborate on exciting projects. 🚀
 
 - 💬 **Ask Me About**  
-Frontend and backend development, database design, solving complex problems with data structures and algorithms, or anything tech-related. Let’s talk. 🚀
+   - **Full-Stack Web Development (MERN, Spring Boot)**  
+   - **Building Scalable Backend Systems**  
+   - **Optimizing Frontend Performance**  
+   - **Problem-Solving & Data Structures**  
+   - **Best Practices in Software Development**  
 
 - 📫 How to reach me - **subhashmhetre369@gmail.com**
 
@@ -36,7 +40,7 @@ Frontend and backend development, database design, solving complex problems with
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
    <a href="https://expressjs.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
