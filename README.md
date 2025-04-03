@@ -1,6 +1,6 @@
 <h1 align="center"> HI I AM SUBHASH MHETRE. </h1>
 
-<h2 align="center"> || Full-Stack Development • MERN • DSA • Spring Boot • Java • JavaScript ||</h2>
+<h2 align="center"> || DSA • Full-Stack Development • MERN • Spring Boot • Java • JavaScript ||</h2>
 
 - 💡 **About Me**  
 I'm a passionate full-stack developer, specializing in the **MERN stack**, **Spring Boot**, and **Java**. I love solving real-world problems using **DSA** and designing scalable applications. My focus is on **writing clean code, building efficient backend systems, and crafting dynamic frontend experiences**. Always eager to learn new technologies and collaborate on exciting projects. 🚀
