@@ -1,9 +1,6 @@
-
-
- 
 <h1 align="center"> HI I AM SUBHASH MHETRE. </h1>
 
-<h2 align="center"> || Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills || <br> || Building Scalable Solutions ||</h2>
+<h2 align="center"> || Full-Stack Development • DSA • Spring Boot • Java • JavaScript ||</h2>
 
 - 💡 **About Me**  
 A full-stack developer with a passion for building scalable web applications and solving challenging problems using data structures and algorithms. Proficient in both frontend and backend technologies, I thrive on learning, collaborating, and creating impactful solutions in the tech space. 🚀
@@ -17,9 +14,6 @@ Frontend and backend development, database design, solving complex problems with
 
 <h3 align="center">Languages, Frameworks, and Tools:</h3>
 <p align="center">
-   <a href="https://www.python.org" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
     <a href="https://www.java.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
@@ -34,6 +28,9 @@ Frontend and backend development, database design, solving complex problems with
     </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
     </a> 
    <a href="https://www.mongodb.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
